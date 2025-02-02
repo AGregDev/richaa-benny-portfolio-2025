@@ -15,7 +15,7 @@ const LinkItem: React.FC<LinkItemProps> = ({ text, href }) => {
   return (
     <Link
       href={href}
-      className={`hover:text-red-900 h-full py-4 font-thin text-lg ${
+      className={`hover:text-red-900 h-full py-4 font-thin text-xl sm:text-2xl ${
         isActive ? 'text-red-900' :'text-blue-900'
       }`}
     >
