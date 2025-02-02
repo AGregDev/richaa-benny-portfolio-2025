@@ -1,0 +1,12 @@
+{
+    "HomePage": {
+      "title": "Salut monde!",
+      "about": "Va a la page about"
+    },
+    "NotFoundPage": {
+      "title": "Salut monde!",
+      "message": "test",
+      "imageAlt": "Va a la page about",
+      "button": "test"
+    }
+  }
