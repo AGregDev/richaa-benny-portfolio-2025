@@ -1,5 +1,3 @@
-export const runtime = "edge";
-
 export default function HomePage() {
   return (
     <div className="flex flex-col gap-4">
