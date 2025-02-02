@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Header(): JSX.Element {
   return (
-    <div className="text-secondary justify-between py-2 items-center hidden sm:flex">
+    <div className="text-secondary justify-between py-2 items-center flex">
       <Link href="/">
         <div className="flex flex-col gap-2">
           <h1 className="text-red-900 text-5xl font-semibold">Richaa Benny</h1>
@@ -12,15 +12,6 @@ export default function Header(): JSX.Element {
         </div>
       </Link>
       <div className="flex gap-4">
-        <Link href="mailto:bennyrichaa17@gmail.com" target="_blank">
-          <Image
-            alt="gmail"
-            src="/images/gmail.png"
-            width={64}
-            height={64}
-            className="w-12"
-          />
-        </Link>
         <Link
           href="https://www.linkedin.com/in/richaa-benny-54a443254/"
           target="_blank"
