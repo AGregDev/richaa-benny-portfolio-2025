@@ -4,7 +4,7 @@ export default function ProjectPage() {
       <div className="flex items-center justify-center w-full">
         <iframe
         className="w-full min-h-[500px]"
-          src="https://www.youtube.com/embed/iYjQkFmQ1iU?autoplay=1&loop=1&playlist=iYjQkFmQ1iU&rel=0&showinfo=0&modestbranding=1"
+          src="https://www.youtube.com/embed/s1jI7RHdLL8?autoplay=1&loop=1&playlist=s1jI7RHdLL8&rel=0&showinfo=0&modestbranding=1"
           allow="autoplay; encrypted-media"
           allowFullScreen
         />
