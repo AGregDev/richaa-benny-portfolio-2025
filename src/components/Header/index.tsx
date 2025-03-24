@@ -8,7 +8,7 @@ export default function Header(): JSX.Element {
       <Link href="/">
         <div className="flex flex-col gap-2">
           <h1 className="text-red-900 sm:text-5xl text-4xl font-semibold">Richaa Benny</h1>
-          <h3 className="sm:text-2xl text-xl">CG Generalist</h3>
+          <h3 className="sm:text-2xl text-xl">Animation Technical Artist</h3>
         </div>
       </Link>
       <div className="flex gap-4">

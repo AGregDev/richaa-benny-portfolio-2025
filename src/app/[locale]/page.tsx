@@ -58,7 +58,8 @@ export default function HomePage() {
           <p>February 2025 </p>
         </div>
         <div className="flex flex-col py-4 mb-6">
-          <p className="text-blue-900">BSc in Animation and Visual Effects - University of Mauritius </p>
+          <p className="text-blue-900">BSc in Animation and Visual Effects  - University of Mauritius </p>
+          <p>First class with honors (GPA 3.85)</p>
           <p>November 2021 - November 2024</p>
         </div>
       </div>
